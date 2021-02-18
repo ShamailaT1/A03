@@ -5,26 +5,26 @@ Webstorm Setup
 
 Glossary:
 
-Branch - 
+Branch - a separate file copied from the main branch to streamline edits before the final update is merged into the main branch
 
-Clone - 
+Clone - a copy of the repository on own computer; Git is used to push local changes to remote and back
 
-Commit - 
+Commit - a saved change to a branch; generally contains a message detailing the edits
 
-Fetch - 
+Fetch - adding changes without committing them; easier to review than git pull
 
-GIT - 
+GIT - "an open source program to track changes in text files" - Github Docs > Github glossary
 
-Github - 
+Github - a service with accounts for users to store and collaborate on coding projects
 
-Merge - 
+Merge - the act of merging branches into the main branch
 
-Merge Conflict - 
+Merge Conflict - a conflict that occurs when collaborators attempt to change the same file at the same time
 
-Push - 
+Push - the act of sending changes to a remote location
 
-Pull - 
+Pull - a comment proposing changes to a branch; where feedback and discussion on projects occur
 
-Remote - 
+Remote - a repository/branch version hosted on a server
 
-Repository - 
+Repository - a collaborative drive for a single project; contains code, images/videos/gifs, etc.
