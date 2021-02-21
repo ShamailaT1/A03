@@ -1,7 +1,10 @@
 # A03
 Webstorm Setup
 
-
+From the nav bar in Webstorm, click on 'VCS', then choose the option 'Enable Version Control Integration'.
+Choose 'Git' from the dropdown and click 'Next'. Git navbars should now appear to the bottom and left sides.
+To commit changes to files, select the file(s) in question and click 'Commit' on the bottom Git nav bar or the green checkmark in the top right of the screen.
+To share a project to Github, select 'Git' from Webstorm's nav bar, then 'Github', then 'Share project on Github'. A prompt will open to choose/create a repository and to choose the associated Github account with which to push the project up.
 
 Glossary:
 
